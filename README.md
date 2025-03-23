@@ -4,6 +4,7 @@ HTML
 1. Mengganti imgs menjadi images
 
 CSS
+
 2. Melengkapi style yang kurang :
     1. nav
     2. nav ul
